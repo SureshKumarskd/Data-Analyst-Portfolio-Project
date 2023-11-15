@@ -1,2 +1,2 @@
-# Data-Analyst-Portfolio-Project-SQL-
+# Data-Analyst-Portfolio-Project-
 Data Analyst Portfolio Project (sql)
